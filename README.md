@@ -1,6 +1,6 @@
 # ASE-Git-Training
 
-echo "# 5th-year-project" >> README.md
+echo "# test" >> README.md
 
 git init
 
